@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<filtersRozetka>
+    <filterRozetka>
+        <product>Ноутбуки</product>
+        <company>Apple</company>
+        <price>65000</price>
+    </filterRozetka>
+    <filterRozetka>
+        <product>Телефоны</product>
+        <company>Samsung</company>
+        <price>65000</price>
+    </filterRozetka>
+    <filterRozetka>
+        <product>Телевизоры</product>
+        <company>LG</company>
+        <price>200000</price>
+    </filterRozetka>
+    <filterRozetka>
+        <product>Пылесосы</product>
+        <company>Dyson</company>
+        <price>25000</price>
+    </filterRozetka>
+    <filterRozetka>
+        <product>Фены</product>
+        <company>Philips</company>
+        <price>10000</price>
+    </filterRozetka>
+</filtersRozetka>
