@@ -1,0 +1,14 @@
+{
+  "authorId": 2,
+  "authorName": {
+    "first": "Stefani",
+    "second": "Joanne"
+  },
+  "nationality": "Italian",
+  "birth": {
+    "date": "1986-03-28",
+    "country": "USA",
+    "city": "New York"
+  },
+  "authorDescription": "Free my mind ARTPOP"
+}

@@ -1,0 +1,14 @@
+{
+  "authorId": 2,
+  "authorName": {
+    "first": "Lady",
+    "second": "Gaga"
+  },
+  "nationality": "Italian",
+  "birth": {
+    "date": "1986-03-28",
+    "country": "USA",
+    "city": "New York"
+  },
+  "authorDescription": "rah ah rah ah ah roma romama gaga ooh la la"
+}
